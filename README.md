@@ -2,6 +2,7 @@
 Mini project files for EEM343 Robotics course, with a title of Fruit Picking Robotic Arm.
 
 This project is created using ROS Development Studio (RDS) by The Construct. The website can be found at https://rds.theconstructsim.com/
+
 For this project, the virtual machines used are Ubuntu 16.04 + ROS Kinetic + Gazebo 7. 
 
 All these softwares are run virtually on RDS.
